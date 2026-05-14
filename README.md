@@ -1,5 +1,4 @@
-This repository contains coursework completed for educational purposes as part of the Software Technology 2 unit at the University of Canberra.
-Code is structured for clarity and learning rather than production use.
+Tutorial, Group Assignment and Lab Work completed for Software Technology 2 at the University of Canberra. Each week is packaged with as a .zip file containing the full coding lab work for that session.
 
 Requirements:
 Python (3.11, or latest version)
